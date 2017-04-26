@@ -2,3 +2,6 @@ logging:
   level: INFO
   loggers:
     datasrv: DEBUG
+
+element: This element %s!
+defaultElement: root
